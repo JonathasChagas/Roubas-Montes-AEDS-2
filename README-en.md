@@ -6,7 +6,7 @@
   </i>
 </p>
 
-## ♠ Game in C Using Algorithms and Data Structures
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="27px"> Game in C Using Algorithms and Data Structures
 
 ![image](https://github.com/Jonathas78/Roubas-Montes-AEDS-2/assets/154541233/c61d87fa-97ef-4521-8071-f57b7a03f518)
 
